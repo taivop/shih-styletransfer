@@ -1,0 +1,4 @@
+This code(s) has been run on 200*150 images successfully and on a few 300*400 images with a bit of scaling.
+For efficient implementation the search neighborhood could be changed though I doubt if it will make much of a difference.But the iris radii have to be changed to larger values say;60 and 120(min and max)(just as an indication)
+
+Anirudh SK

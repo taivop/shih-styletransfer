@@ -1,0 +1,7 @@
+1.John G. Daugman. High confidence visual recognition of persons by a teste of statisticalindependence. In IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 15,no. 11, pages 1148–1161, U.S.A., 1993
+
+2.Libor Masek, Peter Kovesi. MATLAB Source Code for a Biometric Identification System Based on Iris Patterns. The School of Computer Science and Software Engineering, The University of Western Australia. 2003.
+
+3.Camus, T.A., and Wildes, R.: ‘Reliable and fast eye finding in closeup images’. IEEE 16th Int. Conf. on Pattern Recognition, Quebec,Canada, 2004, pp. 389–394
+
+4.Iris Recognition by Frankin Cheung,Department of Computer Science and Electrical Engineering,The University of Queensland(Btech Project thesis)
